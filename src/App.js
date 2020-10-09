@@ -8,6 +8,9 @@ import Bootstrap from './Components/Bootstrap';
 import Arrow from './Components/Arrow';
 import State from './Components/State';
 import SetState from './Components/SetState';
+import IfElse from './Components/IfElse';
+import Condition from './Components/Condition';
+import Refresh from './Components/Refresh';
 
 function App() {
   return (
@@ -20,6 +23,9 @@ function App() {
       <Arrow></Arrow>
       <State></State>
       <SetState></SetState>
+      <IfElse></IfElse>
+      <Condition></Condition>
+      <Refresh></Refresh>
     </div>
   );
 }
