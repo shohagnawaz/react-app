@@ -11,9 +11,12 @@ import SetState from './Components/SetState';
 import IfElse from './Components/IfElse';
 import Condition from './Components/Condition';
 import Refresh from './Components/Refresh';
+<<<<<<< HEAD
 import NewDemo from './Components/NewDemo';
 import AnotherDemo from './Components/AnotherDemo';
 import Form from './Components/Form';
+=======
+>>>>>>> ca610169efbb1adb4c9cd5ac6978db37e3c5f14e
 
 function App() {
   return (
@@ -29,9 +32,12 @@ function App() {
       <IfElse></IfElse>
       <Condition></Condition>
       <Refresh></Refresh>
+<<<<<<< HEAD
       <NewDemo></NewDemo>
       <AnotherDemo></AnotherDemo>
       <Form></Form>
+=======
+>>>>>>> ca610169efbb1adb4c9cd5ac6978db37e3c5f14e
     </div>
   );
 }
