@@ -17,6 +17,9 @@ import Form from './Components/Form';
 import FormEx from './Components/FormEx';
 import SignUp from './Components/SignUp';
 import Text from './Components/Text';
+import Select from './Components/Select';
+import List from './Components/List';
+import JsonArray from './Components/JsonArray';
 
 function App() {
   return (
@@ -38,6 +41,9 @@ function App() {
       <FormEx></FormEx>
       <SignUp></SignUp>
       <Text></Text>
+      <Select></Select>
+      <List></List>
+      <JsonArray></JsonArray>
     </div>
   );
 }
